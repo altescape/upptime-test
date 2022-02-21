@@ -1,22 +1,27 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: altescape
+repo: upptime-test
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Swiftaid Donor Accounts API
+    url: https://api.swiftaid.co.uk/donor-accounts/v1/healthcheck
+  - name: Swiftaid Donor API
+    url: https://api.swiftaid.co.uk/donor/v1/healthcheck
+  - name: Swiftaid.co.uk
+    url: https://www.swiftaid.co.uk
+  - name: Swiftaid Email Service API
+    url: https://api.swiftaid.co.uk/services/email/v1/healthcheck
+  - name: Swiftaid API
+    url: https://api.swiftaid.co.uk/integrations/v1/healthcheck
+  - name: Swiftaid Charity API
+    url: https://api.swiftaid.co.uk/charity/v1/healthcheck
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime-test
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
