@@ -2,17 +2,17 @@ owner: altescape
 repo: upptime-test
 
 sites:
-  - name: Swiftaid Donor Accounts API
+  - name: S******d D***r Accounts API
     url: https://api.swiftaid.co.uk/donor-accounts/v1/healthcheck
-  - name: Swiftaid Donor API
+  - name: S******d D***r API
     url: https://api.swiftaid.co.uk/donor/v1/healthcheck
-  - name: Swiftaid.co.uk
+  - name: S******d.co.uk
     url: https://www.swiftaid.co.uk
-  - name: Swiftaid Email Service API
+  - name: S******d Email Service API
     url: https://api.swiftaid.co.uk/services/email/v1/healthcheck
-  - name: Swiftaid API
+  - name: S******d API
     url: https://api.swiftaid.co.uk/integrations/v1/healthcheck
-  - name: Swiftaid Charity API
+  - name: S******d C*****y API
     url: https://api.swiftaid.co.uk/charity/v1/healthcheck
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
